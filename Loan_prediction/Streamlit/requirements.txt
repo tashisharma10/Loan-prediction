@@ -1,7 +1,0 @@
-streamlit
-numpy 
-pandas 
-from PIL 
-import
-import
-import
